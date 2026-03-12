@@ -6,6 +6,7 @@ Foto do circuito :
 
 ## Vídeo
 
-[Assistir vídeo](./Vídeo%20do%20projeto%20de%20PP.mp4)
+[[Assistir vídeo](./Vídeo%20do%20projeto%20de%20PP.mp4)](https://github.com/marcosSantosviana/Grupo-de-projeto-PP/blob/main/video_do_projeto.mp4)
+
 
 
