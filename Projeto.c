@@ -11,8 +11,8 @@
 #include <BlynkSimpleEsp32.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Daniela_2.4G";
-char pass[] = "1q2w3e4r";
+char ssid[] = "wifi do celular";
+char pass[] = "senha do wifi";
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
