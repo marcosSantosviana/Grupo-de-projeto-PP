@@ -6,5 +6,6 @@ Foto do circuito :
 
 ## Vídeo
 
-[![Clique para assistir](./img/capa.png)](./video/Vìdeo do Projeto de PP.mp4)
+[![Clique para assistir](./img/capa.png)](./video/Vídeo do projeto de PP.mp4)
+
 
